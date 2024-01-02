@@ -1,5 +1,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FrancescoZeno&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=FrancescoZeno&theme=nord" alt="FrancescoZeno" />
+    </a>
+  </p>
 </p>
 
 <h1 align="center">👋 Ciao, sono Francesco Zeno</h1>
