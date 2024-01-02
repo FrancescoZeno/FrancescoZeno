@@ -1,63 +1,49 @@
-<h1 align="center">Hi 👋, I'm FrancescoZeno</h1>
-<h3 align="center">Ciao, sono Francesco Zeno giovane studente informatico</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FrancescoZeno&label=Profile%20views&color=0e75b6&style=flat" alt="FrancescoZeno" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrancescoZeno&theme=nord" alt="FrancescoZeno" /></a> </p>
-
-- 📫 How to reach me **kekkoz.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/francesco__zeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkn17📈" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FrancescoZeno&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h2 align="left"> Web: </h2>
-<p align="left"> 
-    <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   </a> 
-  <!-- JavaScript -->
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- BootStrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="BootStrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <!-- TailWindCSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <!-- React -->
-<!--   <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer" title="React"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p> -->
-<h2 align="left"> Software: </h2>
-<p align="left">
-  <!-- C -->
-<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <!-- Java -->
-<!--   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer" title="Java"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <!-- Python --> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<h1 align="center">👋 Ciao, sono Francesco Zeno</h1>
+<h3 align="center">Aspirante sviluppatore appassionato di web e mobile</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/francesco__zeno" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kekkoz.dev@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-<h2 align="left"> Mobile: </h2>
-<p align="left">
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="python" width="40" height="40"/> </a> 
+
+<h2 align="center">Linguaggi e Strumenti:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%231a202c.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-<!-- <p align="left"> 
-  <h2 align="left"> Other: </h2>
-  Arduino
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  Raspberry Pi
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer" title="Raspberry Pi"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="arduino" width="40" height="40"/> </a>
-  Linux
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p> -->
+<h2 align="center">Progetto in Corso: Il Mio Sito Web</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrancescoZeno&show_icons=true&locale=en&layout=compact&theme=nord" alt="FrancescoZeno" /></p>
+<p align="center">
+  🚧 Il mio sito web è attualmente in fase di sviluppo. 🚀<br />
+  Spero di condividere presto le ultime novità!
+</p>
 
+<p align="center">
+  Nel frattempo, puoi dare un'occhiata al mio <a href="https://github.com/FrancescoZeno" target="_blank">profilo GitHub</a> per seguire il progresso.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-%231abc9c.svg?&style=for-the-badge" alt="Status: In Progress" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancescoZeno&show_icons=true&theme=nord" alt="FrancescoZeno" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoZeno&layout=compact&theme=nord" alt="Top Languages" />
+</p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoZeno&" alt="FrancescoZeno" /></p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoZeno&show_icons=true&theme=nord" alt="GitHub Stats" />
+</p>
