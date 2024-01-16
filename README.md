@@ -30,19 +30,19 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-<h2 align="center">Progetto in Corso: Il Mio Sito Web</h2>
+<h2 align="center">Progetto Completato: Il Mio Sito Web</h2>
 
 <p align="center">
-  🚧 Il mio sito web è attualmente in fase di sviluppo. 🚀<br />
-  Spero di condividere presto le ultime novità!
+  🚀 Sono lieto di annunciare che il mio sito web, [ffbdigitalservices.com](https://ffb-digitalservices.com/), è ora completo! 🎉<br />
+  Scopri le ultime novità e esplora il sito appena pubblicato!
 </p>
 
 <p align="center">
-  Nel frattempo, puoi dare un'occhiata al mio <a href="https://github.com/FrancescoZeno" target="_blank">profilo GitHub</a> per seguire il progresso.
+  Nel caso tu voglia esplorare ulteriormente, puoi dare un'occhiata al mio <a href="https://github.com/FrancescoZeno" target="_blank">profilo GitHub</a> per approfondimenti sul processo di sviluppo.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-%231abc9c.svg?&style=for-the-badge" alt="Status: In Progress" />
+  <img src="https://img.shields.io/badge/Status-Completato-%231abc9c.svg?&style=for-the-badge" alt="Status: Completato" />
 </p>
 
 <p align="center">
